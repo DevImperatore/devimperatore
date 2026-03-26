@@ -1,4 +1,4 @@
-# Hi, I'm Thomas 👋
+# Hi, I'm Thomas 
 
 Systems Engineering student at ITM Medellín, Colombia.
 I build automation systems, AI workflows, and full-stack applications.
