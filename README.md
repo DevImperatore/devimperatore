@@ -21,11 +21,11 @@ Systems Engineering undergraduate based in Medellin, Colombia, currently develop
 
 ---
 
-## Currently Working On
+## Featured Projects
 
-- Multi-agent orchestration architectures designed for autonomous task decomposition, deterministic tool evaluation, and local context isolation.
-- Enterprise automation workflows integrating n8n, custom webhooks, and LLM-driven structured data extraction for estimating pipelines.
-- Full-stack developer tooling combining modern React client interfaces with asynchronous Python and Node.js microservices.
+- [**mcp-ai-workforce**](https://github.com/DevImperatore/mcp-ai-workforce): Autonomous Model Context Protocol (MCP) server empowering orchestrators (Google Antigravity, Claude Code) to delegate token-heavy coding tasks to economical models (Qwen 2.5 Coder, DeepSeek V4) via OpenRouter, with strict ReAct loops, security sandboxing, and unified git diff auditing.
+- [**auto-qa-agent**](https://github.com/DevImperatore/auto-qa-agent): Autonomous PR review and QA agent built with LangGraph and deterministic quality rubrics.
+- [**docuchat-lite**](https://github.com/DevImperatore/docuchat-lite): Enterprise document Q&A engine powered by LangChain, ChromaDB vector search, and Gemini API.
 
 ---
 
